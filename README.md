@@ -1,4 +1,4 @@
-# working-here
+# Working-here
 All resources needed for those working at manaty
 
 ## Modo
@@ -31,7 +31,7 @@ In the debrief channel, everyday you work:
 3. Each time you do a pause mention it, if the pause is not for food break or a short 5min pause then mention in how long you will be back.
 4. 15 min before you logout write a debrief mentionning what you did during the day and give estimated completion time for tickets that you worked on and are still not closed.
 
-## git usage
+## Git usage
 Whenever you work your task must be described in a github issue. If you are asked to do something by chat by team lead, PM, architect,... create an issue first and assign it to you.
 All your production, whether it is code, test, infra, documentation,... must be commited on git. You are supposed to commit very often, more or less each time you save a file, and at least every 20min.
 You must push to github often too, at least twice a day: before lunch break and before you logout.
