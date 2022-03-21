@@ -33,6 +33,6 @@ In the debrief channel, everyday you work:
 
 ## Git usage
 Whenever you work your task must be described in a github issue. If you are asked to do something by chat by team lead, PM, architect,... create an issue first and assign it to you.
-All your production, whether it is code, test, infra, documentation,... must be commited on git. You are supposed to commit very often, more or less each time you save a file, and at least every 20min. Each commit should contain a link to the associated github issue.
+All your production, whether it is code, test, infra, documentation,... must be commited on git. You are supposed to commit very often, more or less each time you save a file, and at least every 20min. Each commit should contain a link to the associated github issue in the form organisation/repo#issueNumber .
 You must push to github often too, at least twice a day: before lunch break and before you logout.
 
